@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/bbc5598ce8d940dabe47760ff4b37c9a">
+    <a href="https://www.loom.com/share/ad9e63482d7242f5882fdd75f6583d15">
     </a>
-    <a href="https://www.loom.com/share/bbc5598ce8d940dabe47760ff4b37c9a">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bbc5598ce8d940dabe47760ff4b37c9a-with-play.gif">
+    <a href="https://www.loom.com/share/ad9e63482d7242f5882fdd75f6583d15">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ad9e63482d7242f5882fdd75f6583d15-with-play.gif">
     </a>
   </div>
 
